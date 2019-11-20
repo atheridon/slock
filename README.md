@@ -1,5 +1,5 @@
 # lesflol's fork of st
-The [suckless slock](http://tools.suckless.org/slock/) screen locker to lock simply lock your xorg session.
+The [suckless slock](http://tools.suckless.org/slock/) screen locker to simply lock your xorg session.
 
 ## Configuration
 
