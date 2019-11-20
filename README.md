@@ -13,4 +13,4 @@ sudo make clean install
 ```
 
 ## Patches applied
-+ unlock screen: slock now only locks the xorg session with no color overlay
++ unlock screen: slock now only locks the xorg session with no color overlay, basically transparent
