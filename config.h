@@ -24,7 +24,7 @@ static const char * font_name = "-ibm-ibm plex mono semibold-semibold-r-normal--
 #define BLUR
 
 /* Set blur radius */
-static const int blurRadius=5;
+static const int blurRadius=10;
 
 /* Enable Pixelation */
 //#define PIXELATION
